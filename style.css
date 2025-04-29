@@ -10,16 +10,24 @@ body{
 }
 
 nav{
-    padding-top: 30px;
+    height: 60px;
     display: flex;
-    justify-content: center;
     background-color: rgb(210, 230, 248);
+    justify-content: center;
    
 }
 
+#logonav{
+
+    width: 60px;
+    height: 60px;
+  text-align: left;
+}
 ul {
     display: flex;
 align-items: flex-end;
+text-align: center;
+
 }
 
 li{
